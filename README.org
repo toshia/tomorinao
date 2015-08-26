@@ -1,0 +1,28 @@
+友利奈緒プラグイン
+
+* これなん
+  最近Twitterで「友利奈緒」を名乗る人が多いですが、みんな同じ名前では名前の意味がありませんよ。
+
+  普段のTL
+
+  [[https://github.com/toshia/tomorinao/raw/master/nao0.png]]
+
+  プロフィールを開いても大丈夫
+
+  [[https://github.com/toshia/tomorinao/raw/master/nao1.png]]
+
+  これはひどい
+
+  [[https://github.com/toshia/tomorinao/raw/master/nao2.png]]
+
+  このプラグインをインストールすれば、そのアカウントの本来の名前が表示されるようになります。
+
+* インストール方法
+  以下のコマンドを実行してください。
+
+#+BEGIN_SRC sh
+  $ mkdir -p ~/.mikutter/plugin/; git clone https://github.com/toshia/tomorinao.git ~/.mikutter/plugin/tomorinao/
+#+END_SRC
+
+* 使い方
+  正常にインストールできていれば快適な友利奈緒ライフを送れると思います。
